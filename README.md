@@ -10,16 +10,12 @@ Universidad Tecnologica Nacional
 Año:
 2026
 
-Curso / Comisión:
-K1053
-
 Profesores:
-
-Prof. José Guzmán
+Prof. José Guzmán y 
 Prof. José María Sola
 
-Alumno:
-Matias Mamani Hirch
-
-Legajo:
-218.444-8
+Sistema Operativo: Windows 10 Pro
+Editor de Código: Visual Studio Code v1.117.0, Extensión C/C++ (Microsoft), MinGW (GNU Compiler Collection)
+Lenguaje: C++
+Compilador: g++ (MinGW GCC 6.3.0)
+Estándar del Lenguaje: C++17
