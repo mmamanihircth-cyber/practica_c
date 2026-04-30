@@ -1,0 +1,4 @@
+PS D:\FACULTAD\1er año\Algoritmo y estructura de datos> cd 'd:\FACULTAD\1er año\Algoritmo y estructura de datos\00-CHelloWorld\output'
+PS D:\FACULTAD\1er año\Algoritmo y estructura de datos\00-CHelloWorld\output> & .\'hello.exe'
+Hola Mundo
+PS D:\FACULTAD\1er año\Algoritmo y estructura de datos\00-CHelloWorld\output> 
