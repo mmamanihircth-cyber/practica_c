@@ -1,0 +1,333 @@
+------------------------------------------------------------Ejercicio 1------------------------------------------------------------
+
+Dados dos valores numéricos enteros calcular e informar la suma, la diferencia y el producto entre dichos valores.
+
+------------------------------------------------------------Ejercicio 2------------------------------------------------------------
+
+Dada una terna de números naturales que representan día, mes y año, informar la fecha como un número natural de 8 dígitos (aaaammdd).
+
+------------------------------------------------------------Ejercicio 3------------------------------------------------------------
+
+Dado un valor entero ingresar e informar:
+
+La quinta parte
+El resto de dividir por 5
+La séptima parte de la quinta parte
+
+------------------------------------------------------------Ejercicio 4------------------------------------------------------------
+
+Dados dos valores diferentes, informar cuál es el mayor.
+
+------------------------------------------------------------Ejercicio 5------------------------------------------------------------
+
+Dados dos valores:
+
+Informar mayor y menor
+O indicar si son iguales.
+
+------------------------------------------------------------Ejercicio 6------------------------------------------------------------
+
+Dadas dos fechas, informar cuál es más reciente.
+
+------------------------------------------------------------Ejercicio 7------------------------------------------------------------
+
+Dado un triángulo por sus lados:
+
+equilátero
+isósceles
+escaleno
+
+------------------------------------------------------------Ejercicio 8------------------------------------------------------------
+
+Dado mes y año, informar cantidad de días.
+
+------------------------------------------------------------Ejercicio 9------------------------------------------------------------
+
+Ingresar edad e informar:
+
+menor (≤12)
+cadete (13–18)
+juvenil (19–26)
+mayor
+
+------------------------------------------------------------Ejercicio 10------------------------------------------------------------
+
+Calcular el producto mediante sumas sucesivas.
+
+------------------------------------------------------------Ejercicio 11------------------------------------------------------------
+
+Dados 50 enteros:
+
+promedio de los mayores a 100
+suma de los menores a −10
+
+------------------------------------------------------------Ejercicio 12------------------------------------------------------------
+
+Torneo todos contra todos.
+Por equipo informar:
+
+código
+puntaje total (3 ganado, 1 empate)
+
+------------------------------------------------------------Ejercicio 13------------------------------------------------------------
+
+Ingresar sueldos hasta 0.
+Contar empleados:
+
+<2000
+2000–2999
+3000–4999
+≥5000
+
+------------------------------------------------------------Ejercicio 14------------------------------------------------------------
+
+Mostrar los m primeros múltiplos de 3 que no sean múltiplos de 5.
+
+------------------------------------------------------------Ejercicio 15------------------------------------------------------------
+
+Dados 10 valores informar el mayor.
+
+------------------------------------------------------------Ejercicio 16------------------------------------------------------------
+
+Dados n valores informar:
+
+mayor
+menor
+posición
+
+------------------------------------------------------------Ejercicio 17------------------------------------------------------------
+
+Ingresar nombres y fechas (ddmmaaaa).
+Finaliza con "fin".
+Informar:
+
+persona mayor
+persona más joven
+
+------------------------------------------------------------Ejercicio 18------------------------------------------------------------
+
+Valores hasta valor nulo.
+Informar:
+
+máximo negativo
+mínimo positivo
+mínimo entre −17.3 y 26.9
+promedio general
+
+------------------------------------------------------------Ejercicio 19------------------------------------------------------------
+
+Valores positivos finalizan con negativo.
+Subconjuntos separados por 0.
+Informar:
+
+promedio por subconjunto
+total subconjuntos
+máximo del conjunto y posición
+mínimo de cada subconjunto
+
+------------------------------------------------------------Ejercicio 20------------------------------------------------------------
+
+Tiros de ruleta (color, número).
+Informar:
+
+cantidad de ceros y número anterior
+repeticiones de negro
+repeticiones del mismo número
+mayor alternancia rojo/negro
+mayor negación segunda docena
+
+------------------------------------------------------------Ejercicio 21------------------------------------------------------------
+
+100 contenedores:
+
+id
+peso
+puerto (1–3)
+
+Informar:
+
+peso total
+contenedor más pesado
+cantidad por puerto
+
+------------------------------------------------------------Ejercicio 22------------------------------------------------------------
+
+Infracciones en fábrica.
+Datos:
+tipo, motivo, valor, gravedad.
+
+Informar:
+
+total multas por gravedad
+clausurar si hay >3 graves tipo 3 o 4
+motivo de menor multa
+
+------------------------------------------------------------Ejercicio 23------------------------------------------------------------
+
+Oración finaliza con punto.
+Informar:
+
+cantidad de cada vocal
+cantidad de palabras
+longitud palabra más larga
+
+------------------------------------------------------------Ejercicio 24------------------------------------------------------------
+
+Convertir número (1–3999) a romano.
+
+------------------------------------------------------------Ejercicio 25------------------------------------------------------------
+
+Determinar si un número es primo.
+
+------------------------------------------------------------Ejercicio 26------------------------------------------------------------
+
+Mostrar primeros n números primos.
+
+------------------------------------------------------------Ejercicio 27------------------------------------------------------------
+
+Mostrar término n de Fibonacci.
+
+------------------------------------------------------------Ejercicio 28------------------------------------------------------------
+
+Mostrar primeros n términos Fibonacci.
+
+------------------------------------------------------------Ejercicio 29------------------------------------------------------------
+
+Conjunto A:
+
+contar ceros
+promedio positivos
+suma negativos
+
+Variantes de corte indicadas.
+
+------------------------------------------------------------Ejercicio 30------------------------------------------------------------
+
+Encuesta familiar.
+Datos vivienda e integrantes.
+Informar:
+
+primario completo
+% analfabetismo
+domicilio con más integrantes en depto
+edades promedio
+niveles incompletos
+% sexo
+
+------------------------------------------------------------Ejercicio 31------------------------------------------------------------
+
+Vuelos al exterior.
+Informar:
+
+pasajeros
+recaudación por vuelo
+% ocupación
+total mensual
+vuelos completos seguidos
+vuelo que más recaudó
+
+------------------------------------------------------------Ejercicio 32------------------------------------------------------------
+
+Función MCD:
+
+int mcd(int a,int b);
+
+------------------------------------------------------------Ejercicio 33------------------------------------------------------------
+
+Función factorial:
+
+int factorial(int n);
+
+Analizar comportamiento con números grandes.
+
+------------------------------------------------------------Ejercicio 34------------------------------------------------------------
+
+Función unificar fecha:
+
+long unificarFecha(int dia,int mes,int anio);
+
+------------------------------------------------------------Ejercicio 35------------------------------------------------------------
+
+Función múltiplo:
+
+bool esMultiplo(int a,int b);
+
+------------------------------------------------------------Ejercicio 36------------------------------------------------------------
+
+Serie de números:
+
+factorial
+múltiplos de 3,5,7
+múltiplos de 3 y 5
+
+------------------------------------------------------------Ejercicio 37------------------------------------------------------------
+
+Simplificar fracción usando factor común.
+
+------------------------------------------------------------Ejercicio 38------------------------------------------------------------
+
+Función porcentaje diferencia:
+
+float calcularPorcentajeDiferencia(long a,long b);
+------------------------------------------------------------Ejercicio 39------------------------------------------------------------
+
+Función:
+
+void continuar();
+
+Imprime: "Presione una tecla para continuar..."
+
+------------------------------------------------------------Ejercicio 40------------------------------------------------------------
+
+Función potencia:
+
+double pow(double x,double y);
+
+------------------------------------------------------------Ejercicio 41------------------------------------------------------------
+
+Analizar algoritmo de raíces cuadráticas.
+
+------------------------------------------------------------Ejercicio 42------------------------------------------------------------
+
+Sumar horas:
+
+void sumarHora(long h,long t,long& res);
+
+------------------------------------------------------------Ejercicio 43------------------------------------------------------------
+
+Función primo:
+
+bool esPrimo(int n);
+
+------------------------------------------------------------Ejercicio 44------------------------------------------------------------
+
+Descomponer monto en billetes:
+100,50,20,10,5,2,1.
+
+------------------------------------------------------------Ejercicio 45------------------------------------------------------------
+
+Resolver usando función calcularBilletes.
+
+------------------------------------------------------------Ejercicio 46------------------------------------------------------------
+
+Rectángulos:
+
+perímetro si es cuadrado
+cantidad no cuadrados
+
+------------------------------------------------------------Ejercicio 47------------------------------------------------------------
+
+Censo:
+
+nacimientos en octubre
+antes 9/7/1990
+mujeres primavera 1982
+sexo persona más vieja
+
+------------------------------------------------------------Ejercicio 48------------------------------------------------------------
+
+Funciones telefonía celular:
+
+convertir hhmm a minutos
+calcular factura
+emitir listado por turnos
